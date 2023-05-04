@@ -35,6 +35,14 @@
         .contact-form .form-group .form-control {
             border-radius: 5px;
         }
+
+        .navbar{
+            box-shadow: 0 1px 1px 0 rgb(178 178 178 / 30%);
+        }
+        .navbar-area.nav-style-01 .nav-container {
+            height: 75px;
+            padding: 5px;
+        }
     </style>
 
 </head>
@@ -105,7 +113,7 @@
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
                     <a href="/" class="logo">
-                        <img src="/frontend/img/logo.jpeg" height="110" alt=""/>
+                        <img src="/frontend/img/logo.png" height="100" alt=""/>
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bizcoxx_main_menu"
