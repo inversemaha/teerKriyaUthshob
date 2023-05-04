@@ -200,18 +200,18 @@ function getPlayerName($id)
 {
 
     if ($id == "1") {
-        return "মেহেদী হাসান মিরাজ";
+        return "জামাল ভূইয়া";
 
     } elseif ($id == "2") {
-        return "রোমান সানা";
+        return "সাবিনা খাতুন";
     } elseif ($id == "3") {
         return "সাকিব আল হাসান";
     } elseif ($id == "4") {
-        return "দিয়া সিদ্দিকী";
+        return "সানজিদা আখতার";
     }elseif ($id == "5") {
         return "লিটন দাস";
     }elseif ($id == "6") {
-        return "তপু বর্মন";
+        return "মেহেদী হাসান মিরাজ";
     }
 
 }

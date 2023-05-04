@@ -105,7 +105,7 @@
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
                     <a href="/" class="logo">
-                        <img src="/frontend/img/logo.png" height="110" alt=""/>
+                        <img src="/frontend/img/logo.jpeg" height="110" alt=""/>
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bizcoxx_main_menu"
