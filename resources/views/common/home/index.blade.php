@@ -144,6 +144,12 @@
     <!-- navbar area end -->
 </div>
 
+<section class="slider">
+    <div class="desktop">
+        <img src="/frontend/img/hero.png" class="w-100" alt="slider"/>
+    </div>
+
+</section>
 
 <!-- Our party section end -->
 <div class="our-party-section-area party-member-section-area home-three" id="vote">
@@ -154,7 +160,7 @@
                     <div class="content">
                         <div class="subtitle wow animate__ animate__fadeInUp animated"
                              style="visibility: visible; animation-name: fadeInUp;" ng-click="player(1)">
-                            <p>আপনার চোখে ২০২১ সালের বর্ষসেরা ক্রীড়াবিদ কে?</p>
+                            <p>আপনার চোখে ২০২২ সালের বর্ষসেরা ক্রীড়াবিদ কে?</p>
                         </div>
                         <p class=" wow animate__ animate__fadeInUp animated"
                            style="visibility: visible; animation-name: fadeInUp;" ng-click="player(1)">
