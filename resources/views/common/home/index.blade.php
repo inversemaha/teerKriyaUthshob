@@ -248,7 +248,7 @@
                 <div class="single-party-member-item-02 wow animate__ animate__fadeInUp animate__delay-2s animated"
                      style="visibility: visible; animation-name: fadeInUp;" ng-click="player(4)">
                     <div class="thumb">
-                        <img src="/frontend/img/sanjida.jpg" alt="" class="w-100">
+                        <img src="/frontend/img/sanjida.jpeg" alt="" class="w-100">
                     </div>
                     <div class="content2">
                         <div class="author-meta">
