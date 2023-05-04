@@ -145,8 +145,10 @@
 </div>
 
 <section class="slider">
-    <div class="desktop">
-        <img src="/frontend/img/hero.png" class="w-100" alt="slider"/>
+    <div class="container">
+        <div class="">
+            <img src="/frontend/img/hero.png" class="w-100" alt="slider"/>
+        </div>
     </div>
 
 </section>
